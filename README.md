@@ -19,19 +19,3 @@ Email: contact@arcq.ai
 
 ## License
 This project is licensed under the MIT License.
-Scroll down and click Commit changes (commit directly to main branch).
-
-Step 3: Add Relevant Topics (Tags)
-On the repository page, locate the “About” section near the top right.
-
-Click the gear icon or “Manage topics”.
-
-Add these topics one by one (press Enter after each):
-
-text
-generative-ai
-ai-consulting
-machine-learning
-large-language-models
-prompt-engineering
-artificial-intelligence
