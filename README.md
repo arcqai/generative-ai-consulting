@@ -15,7 +15,7 @@ Our consulting approach combines deep technical expertise with business insights
 
 ## Contact
 Visit our website: [https://arcq.ai](https://arcq.ai)  
-Email: contact@arcq.ai
+Email: doyeoun@arcq.ai
 
 ## License
 This project is licensed under the MIT License.
